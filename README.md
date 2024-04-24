@@ -16,13 +16,14 @@
 
 导入订阅地址直接使用
 
-https://www.xfxssr.com/api/v1/client/subscribe?token=de1c25d154c261a8576fdfad139cd48e
+https://www.xfxssr.com/api/v1/client/subscribe?token=77cfaf9af59403af17a78924473cfd06
 
-https://www.xfxssr.com/api/v1/client/subscribe?token=63cf739522cc52b89586c0e83b8dc416
+https://www.xfxssr.com/api/v1/client/subscribe?token=c0874665d1a9aa5b3be9fcb7503172e6
 
-https://www.xfxssr.com/api/v1/client/subscribe?token=2c796be8d853f64a927e1907a2d615d3
+https://www.xfxssr.com/api/v1/client/subscribe?token=dc2a191a04257556869b4f0354887f72
 
-https://www.xfxssr.com/api/v1/client/subscribe?token=5efd278bb1cff994c773fea08c564f20
+https://www.xfxssr.com/api/v1/client/subscribe?token=4c9820c62b3dbe062c8585ea7f381db8
+
 
 
 试用clash verge测速，秒开油管4k视频
