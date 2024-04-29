@@ -16,13 +16,13 @@
 
 导入订阅地址直接使用
 
-https://www.xfxssr.com/api/v1/client/subscribe?token=5c43e8efe5a56a6ed6228b8cc62ca03b
+https://www.xfxssr.com/api/v1/client/subscribe?token=4e98614fc6df9665fe4fc2c0086d812c
 
-https://www.xfxssr.com/api/v1/client/subscribe?token=6be5118abdd0cca7534f56c5495ff15d
+https://www.xfxssr.com/api/v1/client/subscribe?token=e9a53795177be783946ba51578befa5b
 
-https://www.xfxssr.com/api/v1/client/subscribe?token=148490bc745bda947fd4e11a42f09f43
+https://www.xfxssr.com/api/v1/client/subscribe?token=cbc2799a716612694145d00c33ccf5e5
 
-https://www.xfxssr.com/api/v1/client/subscribe?token=c8613145b7953bb1fd5bc5921f195e5e
+https://www.xfxssr.com/api/v1/client/subscribe?token=187ca6446f189cda6d5610698393cd9d
 
 
 
