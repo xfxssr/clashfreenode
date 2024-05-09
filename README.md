@@ -2,7 +2,7 @@
 
 每天定时更新 [去看看](https://www.xfxssr.com/nav/)
 
-2024年5月8日，提供4个订阅地址10高速免费节点，支持V2Ray、vpn、免费机场、无限流量，免费VPN，无限流量！V2Ray节点分享，支持v2ray，clash，小火箭！vpn，winxray、2rayNG，BifrostV，Clash，Kitsunebi，V2rayN，V2rayW，Clash，V2rayS，Mellow，Qv2ray，v2ray，clash机场，科学上网翻墙白嫖节点，免费梯子，白嫖梯子，免费代理，永久免费代理
+2024年5月9日，提供4个订阅地址10高速免费节点，支持V2Ray、vpn、免费机场、无限流量，免费VPN，无限流量！V2Ray节点分享，支持v2ray，clash，小火箭！vpn，winxray、2rayNG，BifrostV，Clash，Kitsunebi，V2rayN，V2rayW，Clash，V2rayS，Mellow，Qv2ray，v2ray，clash机场，科学上网翻墙白嫖节点，免费梯子，白嫖梯子，免费代理，永久免费代理
 
 本次更新节点，包括 [美国、新加坡、加拿大、香港、欧洲、日本、韩国等]共5个订阅地址，复制下面的节点数据，导入或者粘贴到v2ray/iso小火箭/winxray、2rayNG，BifrostV，Clash，Kitsunebi，V2rayN，V2rayW，Clash，V2rayS，Mellow，Qv2ray，v2ray，clash，小火箭！等科学上网工具，直接使用即可
 
@@ -16,13 +16,13 @@
 
 导入订阅地址直接使用
 
-https://www.xfxssr.com/api/v1/client/subscribe?token=9f86ce857a9895f135c8d9299df8ff33
+https://www.xfxssr.com/api/v1/client/subscribe?token=a1e0eabac46803d3777b55c71c04c886
 
-https://www.xfxssr.com/api/v1/client/subscribe?token=9b0c8a25a43f208b85beabaa3f8eada7
+https://www.xfxssr.com/api/v1/client/subscribe?token=33cc9bf29a4929b6411ccf340fb638a3
 
-https://www.xfxssr.com/api/v1/client/subscribe?token=60482a26b78d8e91d46a30540c7c7a28
+https://www.xfxssr.com/api/v1/client/subscribe?token=f9109f2b38cf962e0f1e06bbf9978926
 
-https://www.xfxssr.com/api/v1/client/subscribe?token=6c14474038e419ff8e1d19d62fda4a24
+https://www.xfxssr.com/api/v1/client/subscribe?token=7452ff89e0fdc8b19a36f19b18c8d57c
 
 试用clash verge测速，秒开油管4k视频
 
